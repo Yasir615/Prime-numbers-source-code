@@ -3,7 +3,7 @@ int main(int argc,char *argv[])
 {
     int a,b,c,d,e,sum=0;
     a=atoi(argv[1]);
-    b=atoi(argv[2]);
+    b=atoi(argv[2])
     for(c=a;c<b;c++)
     {
         e=0;
