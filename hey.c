@@ -19,8 +19,8 @@ int main(int argc,char *argv[])
         {
             sum=sum+c;
         }
+	printf("%d",sum);
     }
-    printf("%d",sum);
 }
 
 
