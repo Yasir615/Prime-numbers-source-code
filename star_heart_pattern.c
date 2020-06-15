@@ -1,4 +1,4 @@
-/*Hey guys,i know its a long code to to print heart shape but if you know a little bit of for loop,if else,nested if else,unary operators,binary operators.
+/*Hey guys,i know its a long code to print heart shape but if you know a little bit of for loop,if else,nested if else,unary operators,binary operators.
 Then,you can easily understand this code. */
 
 #include<stdio.h>
